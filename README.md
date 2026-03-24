@@ -1,8 +1,8 @@
-🩺 HealthFriend — AI Medical Chatbot
+## 🩺 HealthFriend — AI Medical Chatbot
 
 An AI-powered medical chatbot built from scratch, leveraging real scientific articles from PubMed to provide reliable and informative health insights.
 
-✨ Features
+## ✨ Features
 🌍 Multilingual support (French, English, Arabic, Spanish, etc.)
 🚨 Emergency detection with instant alerts
 👨‍⚕️ Medical specialist recommendations
@@ -12,7 +12,7 @@ Frontend: Next.js 13
 Backend: FastAPI
 AI: FAISS + Hugging Face + Groq (LLaMA 3.3)
 Data Source: PubMed (NCBI API)
-⚙️ Installation
+## ⚙️ Installation
 🔹 Backend
 pip install fastapi uvicorn sentence-transformers faiss-cpu biopython deep-translator groq python-dotenv
 
