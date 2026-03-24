@@ -3,11 +3,11 @@
 An AI-powered medical chatbot built from scratch, leveraging real scientific articles from PubMed to provide reliable and informative health insights.
 
 ## ✨ Features
-🌍 Multilingual support (French, English, Arabic, Spanish, etc.)
-🚨 Emergency detection with instant alerts
-👨‍⚕️ Medical specialist recommendations
-🔬 Answers based on trusted PubMed articles
-🛠️ Tech Stack
+- 🌍 Multilingual support (French, English, Arabic, Spanish, etc.)
+- 🚨 Emergency detection with instant alerts
+- 👨‍⚕️ Medical specialist recommendations
+- 🔬 Answers based on trusted PubMed articles
+## 🛠️ Tech Stack
 Frontend: Next.js 13
 Backend: FastAPI
 AI: FAISS + Hugging Face + Groq (LLaMA 3.3)
