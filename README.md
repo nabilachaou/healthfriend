@@ -8,10 +8,10 @@ An AI-powered medical chatbot built from scratch, leveraging real scientific art
 - 👨‍⚕️ Medical specialist recommendations
 - 🔬 Answers based on trusted PubMed articles
 ## 🛠️ Tech Stack
-Frontend: Next.js 13
-Backend: FastAPI
-AI: FAISS + Hugging Face + Groq (LLaMA 3.3)
-Data Source: PubMed (NCBI API)
+- Frontend: Next.js 13
+- Backend: FastAPI
+- AI: FAISS + Hugging Face + Groq (LLaMA 3.3)
+- Data Source: PubMed (NCBI API)
 ## ⚙️ Installation
 🔹 Backend
 pip install fastapi uvicorn sentence-transformers faiss-cpu biopython deep-translator groq python-dotenv
