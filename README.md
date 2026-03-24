@@ -27,10 +27,6 @@ Create a .env file inside the backend/ folder and add:
 
 GROQ_API_KEY=your_api_key
 HF_TOKEN=your_huggingface_token
-⚠️ Disclaimer
-
-This chatbot provides general medical information only and does not replace professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider for medical concerns.
-Setup
 Add your API keys in backend/.env:
 GROQ_API_KEY=your_key
 HF_TOKEN=your_token
