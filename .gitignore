@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+mon-env/
+.env
+
+# FAISS index (trop lourd)
+*.faiss
+
+# Data brute (trop lourd)
+data/pubmed_raw.json
+data/pubmed_clean.json
+
+# Node
+node_modules/
+.next/
