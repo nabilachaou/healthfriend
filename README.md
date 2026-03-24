@@ -13,15 +13,15 @@ An AI-powered medical chatbot built from scratch, leveraging real scientific art
 - AI: FAISS + Hugging Face + Groq (LLaMA 3.3)
 - Data Source: PubMed (NCBI API)
 ## ⚙️ Installation
-🔹 Backend
+### 🔹 Backend
 pip install fastapi uvicorn sentence-transformers faiss-cpu biopython deep-translator groq python-dotenv
 
 uvicorn backend.main:app --reload
-🔹 Frontend
+### 🔹 Frontend
 cd frontend
 npm install
 npm run dev
-🔑 Environment Variables
+## 🔑 Environment Variables
 
 Create a .env file inside the backend/ folder and add:
 
